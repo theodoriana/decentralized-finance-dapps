@@ -1,0 +1,1 @@
+# Discover decentralized finance (DeFi) applications and protocols built on blockchain, covering lending platforms, decentralized exchanges (DEXs), yield farming, stablecoins, and other financial primitives.
